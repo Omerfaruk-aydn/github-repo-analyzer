@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="public/globe.svg" alt="RepoMind Logo" width="120" height="120" />
+  <img src="public/logo.png" alt="RepoMind Logo" width="120" height="120" style="border-radius: 20%; box-shadow: 0 0 20px rgba(139, 92, 246, 0.4);" />
 
   # 🧠 RepoMind
   **Agentic Code Scanner & Automated Codebase Auditor**
